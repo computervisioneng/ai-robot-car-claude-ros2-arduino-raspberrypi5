@@ -1,0 +1,4 @@
+string image_path
+---
+bool person_in_image
+string identity
